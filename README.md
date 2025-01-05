@@ -8,7 +8,7 @@ and offers both synchronous and asynchronous clients powered by [httpx](https://
 
 ## Documentation
 
-The REST API documentation can be found [on docs.Battery-ai.com](https://docs.Battery-ai.com). The full API of this library can be found in [api.md](api.md).
+The REST API documentation can be found Battery Docs, will be available soon. The full API of this library can be found in [api.md](api.md).
 
 ## Installation
 
